@@ -1,0 +1,9 @@
+let studentsperClass
+let teachersPerCourse
+let studentsWithLateAssignments
+let bikesInStable
+let courseHoursPerDay
+let numberOfClassrooms
+let isCanteenOpen
+let averageGrade 
+let schoolYear 
